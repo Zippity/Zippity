@@ -1,6 +1,6 @@
-## Hi there 👋
 
-Born to read math textbooks, forced to write crappy Python 
+
+
 
 <!--
 **Zippity/Zippity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
